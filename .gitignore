@@ -1,0 +1,4 @@
+.sftp.json
+.env
+node_modules
+dist
