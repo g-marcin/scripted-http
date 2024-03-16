@@ -1,0 +1,1 @@
+import{j as r,W as p,i as s}from"./index-882c3c42.js";const d=({title:a,children:e,className:c=""})=>r.jsxs(p,{className:`${s.card__Wrapper} ${c}`,children:[r.jsx("h1",{className:s.card__Header,children:a}),e]});export{d as C};

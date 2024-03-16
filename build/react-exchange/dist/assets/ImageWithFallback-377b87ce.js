@@ -1,0 +1,1 @@
+import{r,j as c}from"./index-882c3c42.js";const m=({currencyCode:s,className:t})=>{const o=r.useMemo(()=>`https://flagsapi.com/${s.slice(0,2)}/flat/64.png`,[s]),e=r.useCallback(a=>{a.currentTarget.src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg"},[]);return c.jsx("img",{src:o,className:`${t}`,onError:a=>{e(a)}})};export{m as I};

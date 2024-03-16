@@ -1,0 +1,1 @@
+import{u as e,j as s,F as n}from"./index-882c3c42.js";const a=()=>{const t=e();return s.jsxs("button",{className:"button-black",onClick:()=>{t("/")},children:["Return",s.jsx(n,{icon:["fas","share-from-square"],size:"lg"})]})};export{a as R};
